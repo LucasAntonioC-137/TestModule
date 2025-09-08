@@ -5,5 +5,5 @@ import "fmt"
 
 // PrintHello vai te dizer oi de dentro do mudule TestModule
 func PrintHello() {
-	fmt.Println("Hello from Lucariom module - TestModule")
+	fmt.Println("Hello from Lucariom module - TestModule!")
 }
